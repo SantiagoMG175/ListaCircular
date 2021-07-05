@@ -19,6 +19,9 @@ void mostrar(int);  // se declara la opcion para mostrar datos que recibe un ent
 
 int main(void)
 {
+
+    cout << "Esta es una prueba de Github" << endl;
+
     cabeza = NULL;
     int op;    // se crea la variable "op" para la creacion de un switch.
 
